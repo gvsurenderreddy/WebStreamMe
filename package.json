@@ -1,0 +1,8 @@
+{
+	"name" : "ManuelSanchez",
+	"description" : "A desktop viewer from browser",
+	"dependencies" : {
+		"express"   : "3.4.8",
+		"socket.io" : "0.9.16"
+	}
+}
